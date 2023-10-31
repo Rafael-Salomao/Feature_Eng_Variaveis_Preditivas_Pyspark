@@ -15,13 +15,13 @@ Foram criadas mais de 350 variáveis preditivas para melhorar performance de mod
 3 - Importar Metadados
 
 4 - Importar Tabela 'bureau'
-4.1 - Mostrar Primeiras Linhas e Colunas
-4.2 - Mostrar Tipo das Colunas
+- Mostrar Primeiras Linhas e Colunas
+- Mostrar Tipo das Colunas
 
 5 - Criação de Variáveis Preditivas
-5.1 - Agrupando Variáveis Categóricas
-5.2 - Agrupando Variáveis Categóricas junto com Variáveis Numéricas
-5.3 - Escalando a Criação de Variáveis
-5.4 - Quantidade de Variáveis
+- Agrupando Variáveis Categóricas
+- Agrupando Variáveis Categóricas junto com Variáveis Numéricas
+- Escalando a Criação de Variáveis
+- Quantidade de Variáveis
 
 6 - Conclusão
